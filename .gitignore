@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dSYM
+
+# Go-related files
+*.out
+*.test
+*.prof
+
+# Dependency files
+vendor/
+
+# Build files
+*.html
+*.js
+*.css
+
+# Docker-related files
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# .env file
+.env
